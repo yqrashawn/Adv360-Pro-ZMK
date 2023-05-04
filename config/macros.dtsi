@@ -46,3 +46,9 @@ macro_kinesis: macro_kinesis{
   #binding-cells = <0>;
   bindings = <&kp LS(K)>, <&kp I>, <&kp N>, <&kp E>, <&kp S>, <&kp I>, <&kp S>;
 };
+macro_test_pwd: macro_test_pwd{
+  compatible = "zmk,behavior-macro";
+  label = "macro_test_pwd";
+  #binding-cells = <0>;
+  bindings = <&kp LS(A)>, <&kp B>, <&kp C>, <&kp D>, <&kp N1>, <&kp N2>, <&kp N3>, <&kp N4>, <&kp COLON>, <&kp COLON>;
+};
