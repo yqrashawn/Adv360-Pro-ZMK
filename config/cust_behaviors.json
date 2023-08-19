@@ -1,0 +1,26 @@
+[
+	{
+		"code": "&hm",
+		"name": "&hm",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&hm LGUI BSPC",
+		"name": "&hm LGUI BSPC",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&hm RCTRL SPACE",
+		"name": "&hm RCTRL SPACE",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
